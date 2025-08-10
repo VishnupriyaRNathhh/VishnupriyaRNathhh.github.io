@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name - AI/ML Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; max-width: 800px; }
+    h1, h2 { color: #2c3e50; }
+    a { color: #2980b9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    section { margin-bottom: 40px; }
+    .project { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Vishnupriya R</h1>
+  <p><strong>AI/ML Enthusiast | Python | Computer Vision | Deep Learning</strong></p>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am passionate about building AI-powered solutions using computer vision and deep learning. I enjoy solving real-world problems by applying machine learning techniques and continuously expanding my skills.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python, PyTorch, OpenCV, Mediapipe</li>
+      <li>Deep Learning, Computer Vision, YOLOv8</li>
+      <li>Flask, REST APIs, Data Analysis</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Gesture-Controlled Virtual Mouse</h3>
+      <p>Built a real-time hand gesture recognition system using Mediapipe and OpenCV to control the mouse cursor via hand movements.</p>
+      <p><a href="https://github.com/yourusername/gesture-controlled-virtual-mouse" target="_blank">GitHub Repo</a></p>
+    </div>
+    <div class="project">
+      <h3>Pothole Detection System</h3>
+      <p>Developed a YOLOv8-based pothole detection model with PyTorch and OpenCV to identify potholes in road images and video streams.</p>
+      <p><a href="https://github.com/VishnupriyaRNathhh/pothole-detection" target="_blank">GitHub Repo</a></p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>7907737186h2>
+    <p>Email: rvishnupriya943@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/vishnupriyarnath/" target="_blank">linkedin.com/in/vishnupriyarnath</a></p>
+  </section>
+</body>
+</html>
